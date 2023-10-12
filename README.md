@@ -10,13 +10,20 @@
 
 # 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilalbutt&show_icons=true&locale=en&layout=compact" alt="bilalbutt" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalbutt&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="bilalbutt" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilalbutt&show_icons=true&locale=en" alt="bilalbutt" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilalbutt&theme=default&hide_border=true&include_all_commits=true&count_private=false" alt="bilalbutt" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilalbutt&" alt="bilalbutt" /></p>
 
-![](https://github-readme-stats.vercel.app/api?username=bilalbutt&theme=default&hide_border=true&include_all_commits=true&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=bilalbutt&theme=default&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalbutt&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilalbutt&theme=default&hide_border=true" alt="bilalbutt" /></p>
+
+----------------------------------
+
+![](https://github-readme-stats.vercel.app/api?username=bilalbutt&theme=default&hide_border=true&include_all_commits=true&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=bilalbutt&theme=default&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalbutt&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bilalbutt&theme=dark&no-frame=false&no-bg=false&margin-w=4)
