@@ -27,7 +27,6 @@
 <img src="https://raw.githubusercontent.com/bilalbutt/bilalbutt/output/snake.svg" alt="Snake animation" />
 
 ###
-
 ![Snake animation](https://raw.githubusercontent.com/bilalbutt/bilalbutt/output/github-contribution-grid-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
