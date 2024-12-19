@@ -28,4 +28,6 @@
 
 ###
 
+![Snake animation](https://raw.githubusercontent.com/bilalbutt/bilalbutt/output/github-contribution-grid-snake-dark.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
